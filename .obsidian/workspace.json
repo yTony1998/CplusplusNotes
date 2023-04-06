@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b68a646ab92a04ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "693de1abd302164a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6db7f1b303251384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++笔记/现代C++教程/语言可用性的强化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ba9a817558dff56",
+    "type": "split",
+    "children": [
+      {
+        "id": "237618aeed2650bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9729d4f63c502980",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "664c326b2479eb13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c5be082ec3afddf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbef1147b1179350",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb09538a27871a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461fd7b1eb00efa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c++笔记/现代C++教程/语言可用性的强化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "670778e40def1170",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c++笔记/现代C++教程/语言可用性的强化.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fa677be46c3c7dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa5a00592d3438eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c++笔记/现代C++教程/语言可用性的强化.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6db7f1b303251384",
+  "lastOpenFiles": [
+    "c++笔记/现代C++教程/类型推导.md",
+    "c++笔记/现代C++教程/一些普通概念.md",
+    "c++笔记/数据结构/Tree/二叉树.md",
+    "c++笔记/数据结构/Tree/二叉搜索树.md",
+    "c++笔记/数据结构/Tree/BTree（m奇数）.md",
+    "c++笔记/数据结构/Graph/图的概念.md",
+    "c++笔记/数据结构/Graph/Pictures/图的概念图1.png",
+    "c++笔记/现代C++教程/语言可用性的强化.md",
+    "workspace.json",
+    "Shell笔记/7.Loops(循环).md",
+    "Shell笔记/6.空格符号.md",
+    "Shell笔记/5.Wildcards.md",
+    "Shell笔记/4.变量1.md",
+    "Shell笔记/3.FirstScript.md",
+    "Shell笔记/2.Philosophy.md",
+    "Shell笔记/1.Introduction.md",
+    "Shell笔记",
+    "leetcode刷题指南.md",
+    "LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf",
+    "hotkeys.json",
+    "graph.json",
+    "c++笔记/现代C++教程",
+    "c++笔记/数据结构/Tree/PIcture/二叉树概念图2.png",
+    "c++笔记/数据结构/Tree/PIcture/二叉树概念图1.png",
+    "c++笔记/数据结构/Tree/PIcture/二叉搜索树删除.png",
+    "c++笔记/数据结构/Tree/PIcture/RR3.png",
+    "c++笔记/数据结构/Tree/PIcture/RR2.png",
+    "c++笔记/数据结构/Tree/PIcture/RR1.png",
+    "c++笔记/数据结构/Tree/PIcture/RL2.png",
+    "c++笔记/数据结构/Tree/PIcture/RL1.png",
+    "c++笔记/数据结构/Tree/PIcture/LR5.png",
+    "c++笔记/数据结构/Tree/树.md",
+    "c++笔记/数据结构/Tree/平衡二叉树（AVL）.md",
+    "c++笔记/数据结构/Tree/PIcture",
+    "c++笔记/数据结构/Tree",
+    "c++笔记/数据结构/Graph/Pictures",
+    "c++笔记/数据结构/Graph"
+  ]
+}
